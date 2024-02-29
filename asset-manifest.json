@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Business-React-Website-Example/static/css/main.cfd48ee5.css",
+    "main.js": "/Business-React-Website-Example/static/js/main.886bdcff.js",
+    "static/js/488.8332e268.chunk.js": "/Business-React-Website-Example/static/js/488.8332e268.chunk.js",
+    "static/media/laptop.jpg": "/Business-React-Website-Example/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/Business-React-Website-Example/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/Business-React-Website-Example/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/Business-React-Website-Example/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/Business-React-Website-Example/index.html",
+    "main.cfd48ee5.css.map": "/Business-React-Website-Example/static/css/main.cfd48ee5.css.map",
+    "main.886bdcff.js.map": "/Business-React-Website-Example/static/js/main.886bdcff.js.map",
+    "488.8332e268.chunk.js.map": "/Business-React-Website-Example/static/js/488.8332e268.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd48ee5.css",
+    "static/js/main.886bdcff.js"
+  ]
+}
